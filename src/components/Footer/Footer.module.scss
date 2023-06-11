@@ -1,0 +1,76 @@
+.wrapper {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.title {
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    padding-top: 20px;
+    padding-right: 16px;
+    color: rgba(0, 0, 0, 0.85);
+}
+
+.pagination {
+    display: flex;
+    margin-top: 20px;
+}
+
+ul {
+    list-style: none;
+}
+
+.previous-btn,
+.next-btn,
+.page-btn {
+    background-color: #FFF;
+    border: none;
+    color: rgba(0, 0, 0, 0.85);
+    padding: 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    width: 32px;
+    height: 32px;
+    margin: 0 8px;
+    border-radius: 2px;
+    border: 1px solid rgba(217, 217, 217, 1);
+    cursor: pointer;
+}
+
+.previous-btn {
+    color: rgba(217, 217, 217, 1);
+}
+
+.break-btn {
+    font-size: 14px;
+    line-height: 32px;
+    letter-spacing: 2px;
+    text-align: center;
+    margin: 0 8px;
+}
+
+.active {
+    border-color: var(--primary-color);
+    color: var(--primary-color);
+}
+
+.last-btn {
+    height: 32px;
+    padding: 4px 12px;
+    background-color: #FFF;
+    color: rgba(0, 0, 0, 0.85);
+    border: none;
+    outline: none;
+    border: 1px solid rgba(217, 217, 217, 1);
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.icon-down {
+    color: rgba(0, 0, 0, 0.25);
+}

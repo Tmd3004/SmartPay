@@ -1,0 +1,97 @@
+.information-table {
+    background-color: white;
+    margin-top: 16px;
+    width: 100%;
+    border: 1px solid rgba(222, 226, 230, 0.7);
+    border-radius: 12px;
+    padding: 16px 24px 60px ;
+}
+
+.table {
+    max-width: 100%;
+    background-color: transparent;
+    border-collapse: collapse;
+    border-spacing: 0;
+    font-family: 'Droid Serif', serif;
+    padding: 5px 0px 5px 25px;
+
+}
+
+.table {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.table th,
+.table td {
+    padding: 15px;
+    line-height: 20px;
+    text-align: left;
+    vertical-align: top;
+}
+
+.play {
+    margin-bottom: 4px;
+    margin-right: 5px;
+
+}
+
+/* Center tables for demo */
+table {
+    margin: 0 auto;
+}
+
+/* Default Table Style */
+.table-data {
+    color: #333;
+    background: white;
+    border: 1px solid grey;
+    font-size: 12pt;
+    border-collapse: collapse;
+}
+
+.table-data thead th {
+    color: #777;
+    background: rgba(0, 0, 0, .1);
+    
+}
+
+.table-data caption {
+    padding: .5em;
+}
+
+.table-data th {
+    padding: .5em;
+    border-top: 1px solid lightgrey;
+    text-align: center;
+    position: relative;
+}
+
+.th-table {
+    &::after {
+        content: "";
+        position: absolute;
+        right: 0;
+        top: 50%;
+        transform: translateY(-50%);
+        height: 22px;
+        border-right: 1px solid rgba(0, 0, 0, 0.06);
+    }
+}
+
+.table-data td {
+    padding: .5em;
+    border: 1px solid lightgrey;
+}
+
+.topic {
+    width: 20%;
+}
+
+.header-table {
+    background-color: #f5f7ff;
+}
+
+.table-total {
+    white-space: nowrap;
+}

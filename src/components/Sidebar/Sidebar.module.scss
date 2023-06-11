@@ -1,0 +1,38 @@
+.wrapper {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 370px;
+    background-color: #FFFFFF;
+    text-align: center;
+}
+
+
+.head {
+    margin-top: 52px;
+    margin-bottom: 60px;
+}
+
+.img-logo {
+    cursor: pointer;
+    margin-bottom: 16px;
+}
+
+.desc {
+    font-style: medium;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 100%;
+    text-transform: uppercase;
+    color: rgba(59, 89, 152, 1);
+}
+
+.logo {
+    width: 337.75px;
+    height: 54px;
+    object-fit: cover;
+}
+
+.content {
+    width: 100%;
+}

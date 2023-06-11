@@ -1,0 +1,100 @@
+{
+    "data": [
+        {
+            "data_dir": "./data/SmartPay audio/transcript/40310_nhanvien/chunk0.wav",
+            "time_stamp": [
+                837,
+                4179
+            ],
+            "text": "Mắc bê xin chào em là Thanh Ngân, em có thể hỗ trợ bận đế gì cho anh chị ạ?"
+        },
+        {
+            "data_dir": "./data/SmartPay audio/transcript/40310_nhanvien/chunk1.wav",
+            "time_stamp": [
+                12962,
+                14746
+            ],
+            "text": "Anh Jensen tay ném tiện tư vấn cho mình"
+        },
+        {
+            "data_dir": "./data/SmartPay audio/transcript/40310_nhanvien/chunk2.wav",
+            "time_stamp": [
+                17351,
+                21427
+            ],
+            "text": "Anh Phát ơi, mình đang liên kết ngân hàng nào trên vịch SmartPay về anh?"
+        },
+        {
+            "data_dir": "./data/SmartPay audio/transcript/40310_nhanvien/chunk3.wav",
+            "time_stamp": [
+                22558,
+                23554
+            ],
+            "text": "Cảm ơn các bạn."
+        },
+        {
+            "data_dir": "./data/SmartPay audio/transcript/40310_nhanvien/chunk4.wav",
+            "time_stamp": [
+                24588,
+                27463
+            ],
+            "text": "Dạ, Vivi Banh ạ. Vivi Banh bên em có hỗ trợ 2 hình thức."
+        },
+        {
+            "data_dir": "./data/SmartPay audio/transcript/40310_nhanvien/chunk5.wav",
+            "time_stamp": [
+                28497,
+                30000
+            ],
+            "text": "Cái số đăng gọi là số..."
+        },
+        {
+            "data_dir": "./data/SmartPay audio/transcript/40310_khachhang/chunk0.wav",
+            "time_stamp": [
+                5605,
+                8153
+            ],
+            "text": "Chị em tính hỏi thăm cái chỗ mà em đi cất ví qua bên"
+        },
+        {
+            "data_dir": "./data/SmartPay audio/transcript/40310_khachhang/chunk1.wav",
+            "time_stamp": [
+                9039,
+                9492
+            ],
+            "text": "Dạ"
+        },
+        {
+            "data_dir": "./data/SmartPay audio/transcript/40310_khachhang/chunk2.wav",
+            "time_stamp": [
+                10253,
+                11197
+            ],
+            "text": "Cảm ơn các bạn đã xem video này. Hẹn gặp lại các bạn trong những video tiếp theo."
+        },
+        {
+            "data_dir": "./data/SmartPay audio/transcript/40310_khachhang/chunk3.wav",
+            "time_stamp": [
+                15642,
+                16255
+            ],
+            "text": "HẸN CÁC BẠN TỘ COMMENT BÂY GIỜ NHÉ CÁC BẠN ƠI"
+        },
+        {
+            "data_dir": "./data/SmartPay audio/transcript/40310_khachhang/chunk5.wav",
+            "time_stamp": [
+                22490,
+                23517
+            ],
+            "text": "Hẹn gặp lại các bạn trong những video tiếp theo."
+        },
+        {
+            "data_dir": "./data/SmartPay audio/transcript/40310_khachhang/chunk6.wav",
+            "time_stamp": [
+                26361,
+                27339
+            ],
+            "text": "Dạ, lấy rất thành công rồi"
+        }
+    ]
+}

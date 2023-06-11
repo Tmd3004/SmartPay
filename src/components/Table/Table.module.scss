@@ -1,0 +1,110 @@
+.wrapper {
+    overflow-y: scroll;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+}
+
+.table {
+    border-collapse: collapse;
+    width: 100%;
+    table-layout: auto;
+    border: 3px solid #DFDFDF; 
+    border-radius: 7px;
+}
+
+.table > :not([hidden]) ~ :not([hidden]) {
+    --tw-divide-y-reverse: 0;
+    border-top-width: calc(1px * calc(1 - var(--tw-divide-y-reverse)));
+    border-bottom-width: calc(1px * var(--tw-divide-y-reverse));
+}
+
+.table > :not([hidden]) ~ :not([hidden]) {
+    --tw-divide-opacity: 1;
+    border-color: rgb(75 85 99 / var(--tw-divide-opacity));
+}
+
+.header {
+    background-color: transparent;
+}
+
+.header-title {
+    border-bottom: 1px solid #C5C5C5;
+    padding: 27px 43px;
+    color: var(--primary-color);
+    text-transform: uppercase;
+    text-align: left;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 100%;
+    letter-spacing: 14%;
+    white-space: nowrap;
+}
+
+.header-title-end {
+    border-bottom: 1px solid #C5C5C5;
+    padding: 27px 43px;
+    color: var(--primary-color);
+    text-transform: uppercase;
+    text-align: end;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 100%;
+    letter-spacing: 14%;
+    white-space: nowrap;
+
+}
+
+.table-body {
+    background-color: transparent;
+    padding: 1px 0;
+}
+
+.table-body > :not([hidden]) ~ :not([hidden]) {
+    --tw-divide-y-reverse: 0;
+    border-top-width: calc(1px * calc(1 - var(--tw-divide-y-reverse)));
+    border-bottom-width: calc(1px * var(--tw-divide-y-reverse));
+}
+
+.table-body > :not([hidden]) ~ :not([hidden]) {
+    --tw-divide-opacity: 1;
+    border-color: rgb(75 85 99 / var(--tw-divide-opacity));
+}
+
+.content {
+    border-bottom: 1px solid #C5C5C5;
+    padding: 28px 43px;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 23.87px;
+    color: #262626;
+    text-align: left;
+    white-space: normal;
+}
+
+.play {
+    cursor: pointer;
+}
+
+.content-end {
+    border-bottom: 1px solid #C5C5C5;
+    padding: 28px 43px;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 23.87px;
+    color: #262626;
+    text-align: end;
+    white-space: normal;
+}
+
+.note {
+    border: 2px solid var(--primary-color);
+    width: 25.83px;
+    height: 25.83px;
+    background-color: transparent;
+    border-radius: 100%;
+    color: var(--primary-color);
+    cursor: pointer;
+}
+
+
